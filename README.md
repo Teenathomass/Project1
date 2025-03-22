@@ -1,4 +1,4 @@
 # Project1
 This is my first github repository
 <br>
-Author - Teena Thomas
+Author - Teena Thomas (project)
